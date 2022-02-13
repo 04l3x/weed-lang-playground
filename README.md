@@ -7,6 +7,6 @@ https://gitlab.com/0al3x/weed-lang
 
 or
 
-https://github.com/0al3x/weed-lang.git
+https://github.com/0al3x/weed-lang
 
 
